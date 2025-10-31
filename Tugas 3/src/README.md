@@ -1,5 +1,5 @@
 # [MODUL 3]
-## Aplikasi Kalkulator Gaji Karyawan
+## Kalkulator Penghitung Gaji Karyawan
 
 ### Fitur Utama
 - Menghitung total gaji bersih berdasarkan jabatan dan jumlah hadir

@@ -43,6 +43,10 @@ public class Tugas3 {
             bonus = getGajiPokok() * GAJI_UTAMA;
         }
 
+        if (getJumlahHadir() >= 25) {
+            System.out.println("Selamat! Anda adalah Karyawan Teladan Bulan Ini");
+        }
+
         double gajiBersih = getGajiPokok() + tunjangan + bonus - getPotongan();
 
         System.out.println("=== SLIP GAJI KARYAWAN ===");
